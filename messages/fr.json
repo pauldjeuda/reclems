@@ -1,0 +1,7 @@
+{
+  "Metadata": {"title": "Orange Cameroun : un service à la hauteur", "description": "Signez la pétition citoyenne pour un service télécom de qualité au Cameroun."},
+  "Nav": {"context": "Le contexte", "about": "À propos", "contact": "Contact", "privacy": "Confidentialité", "legal": "Mentions légales", "withdraw": "Retirer ma signature"},
+  "Form": {"firstName": "Prénom", "lastName": "Nom", "email": "E-mail", "region": "Région", "city": "Ville (facultatif)", "terms": "J'accepte que mes données soient traitées pour cette pétition.", "updates": "Je souhaite recevoir des nouvelles de la pétition", "display": "J'accepte que mon prénom et ma ville apparaissent publiquement", "submit": "Signer la pétition", "pending": "Vérifiez votre boîte e-mail", "sent": "Si l'adresse est valide, un e-mail de confirmation a été envoyé."},
+  "Common": {"share": "Partager", "source": "Source", "loading": "Chargement…", "home": "Retour à l'accueil"}
+}
+

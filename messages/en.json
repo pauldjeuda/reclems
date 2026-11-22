@@ -1,0 +1,7 @@
+{
+  "Metadata": {"title": "Orange Cameroon: service that meets the price", "description": "Sign the citizens' petition for quality telecom service in Cameroon."},
+  "Nav": {"context": "The facts", "about": "About", "contact": "Contact", "privacy": "Privacy", "legal": "Legal notice", "withdraw": "Withdraw my signature"},
+  "Form": {"firstName": "First name", "lastName": "Last name", "email": "Email", "region": "Region", "city": "City (optional)", "terms": "I agree to the processing of my data for this petition.", "updates": "I would like to receive petition updates", "display": "I agree to show my first name and city publicly", "submit": "Sign the petition", "pending": "Check your email", "sent": "If the address is valid, a confirmation email has been sent."},
+  "Common": {"share": "Share", "source": "Source", "loading": "Loading…", "home": "Back home"}
+}
+
