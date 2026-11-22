@@ -11,7 +11,7 @@ import fs from 'node:fs';
 let testEnv: RulesTestEnvironment;
 beforeAll(async () => {
   testEnv = await initializeTestEnvironment({
-    projectId: 'petition-rules-test',
+    projectId: 'demo-petition-rules-test',
     firestore: { rules: fs.readFileSync('firestore.rules', 'utf8') }
   });
 });

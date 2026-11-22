@@ -10,7 +10,7 @@
     "lint": "eslint",
     "typecheck": "tsc --noEmit",
     "test": "vitest run",
-    "test:rules": "firebase emulators:exec --only firestore -- pnpm test:rules:run",
+    "test:rules": "firebase emulators:exec --project demo-petition-rules-test --only firestore -- pnpm test:rules:run",
     "test:rules:run": "vitest run tests/rules",
     "test:e2e": "playwright test",
     "capture:screenshots": "tsx scripts/capture-screenshots.ts",
