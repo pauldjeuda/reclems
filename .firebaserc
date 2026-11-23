@@ -1,1 +1,7 @@
-{"projects":{"default":"petition-local"}}
+{
+  "projects": {
+    "default": "reclems-petition-staging",
+    "staging": "reclems-petition-staging",
+    "production": "reclems-petition-production"
+  }
+}
